@@ -1,0 +1,5 @@
+piral-core-test/node_modules/*
+piral-core-test-pilet/node_modules/*
+piral-core-test/dist/*
+piral-core-test-pilet/dist/*
+
